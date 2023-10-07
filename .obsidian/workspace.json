@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "31500479e8963bd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "78a8784822bf4e0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b9c94372a11319c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b04b263bbf0a0ff1",
+    "type": "split",
+    "children": [
+      {
+        "id": "38ce67dbc7320838",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a14667cab31114a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a16bb0dd513f848",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb262f984e6bfb40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd5ad7558c1c1297",
+    "type": "split",
+    "children": [
+      {
+        "id": "b036f897fdd91487",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7587fb8c32a8aa42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS Related/Tech Independence.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "773fc9de344c42b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CS Related/Tech Independence.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3265f30c779f5dbe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2fce8e9ce7df2605",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS Related/Tech Independence.md"
+              }
+            }
+          },
+          {
+            "id": "4406f27ac06a5644",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:Open random note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7a14667cab31114a",
+  "lastOpenFiles": [
+    "CS Related/Take away from FoP.md",
+    "CS Related/RFC.md",
+    "CS Related/MK advise.md",
+    "CS Related/Little and Big endian.md",
+    "CS Related/Course Projects.md",
+    "CS Related/Program Correctness/Is your program correct.md",
+    "CS Related/Humble Programmer/Read through notes.md",
+    "CS Related/Emperor's Old Cloth/Notes.md",
+    "img/spur_of_the_moment_thoughts_update_25-08-2021.jpeg",
+    "img/old-book-shelf.jpg",
+    "img/naturals-tvm.jpg",
+    "img/misurda.pdf",
+    "img/kannansir.jpeg",
+    "img/atlassian-final-shortlist.jpeg",
+    "img/VP-checkingout-screen.jpeg",
+    "img/Pigeon_krakow.jpg",
+    "img",
+    "PyCon23/Women in tech.md",
+    "PyCon23/AWS automation with Python.md",
+    "PyCon23/Music with python.md",
+    "PyCon23/Minecraft coding.md",
+    "PyCon23/Metaprogramming in Python.md",
+    "PyCon23/Marcelo Tryles - FastAPI.md",
+    "PyCon23/Jessica Greene.md",
+    "index.md",
+    "PyCon23",
+    "Project Ideas/Top View Camera from Sports.md",
+    "Project Ideas/Timer app.md",
+    "Project Ideas/Spotify diary pluggin.md",
+    "Project Ideas/Spotify Personal Ranking system.md",
+    "Project Ideas/Splash Urinal.md",
+    "Project Ideas/Snake and Ladder Sim.md",
+    "Project Ideas/Phone Screen Layout.md",
+    "Project Ideas/New browser.md",
+    "Project Ideas/Money Manager.md",
+    "Project Ideas/Money Manager app.md",
+    "Project Ideas",
+    "CS Related/Humble Programmer/img/sumita.jpeg",
+    "CS Related/Humble Programmer/img/sumita-computer-geneartion.jpeg",
+    "CS Related/Program Correctness/correctnesss-talk-slides.pdf",
+    "CS Related/Humble Programmer/img",
+    "CS Related/Humble Programmer/hp.pdf",
+    "CS Related/Program Correctness",
+    "CS Related/Humble Programmer",
+    "CS Related/Emperor's Old Cloth"
+  ]
+}

@@ -1,0 +1,1 @@
+Indian woman. Talking about tech. Better than [[Jessica Greene]]s talk since it's more relatable 

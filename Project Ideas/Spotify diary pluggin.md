@@ -1,0 +1,2 @@
+
+Pluggin that will automatically show which song I am playing in Spotify. And I can write my feelings about that song. Something similar to I listed to this while being in focus mode during final year quantum exam, etc etc 

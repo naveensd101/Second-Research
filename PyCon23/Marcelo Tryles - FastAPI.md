@@ -1,0 +1,1 @@
+>[!info] FastAPI Expert from Brazile
